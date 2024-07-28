@@ -16,7 +16,13 @@ Victoria Sugden was born in 1971 in Yorkshire, England, UK. She is a proud mothe
 
 Victoria spent many years as a secondary school teacher before launching her own handmade leather bag business, Victoria Sugden Designs. Her business can be found online by searching for Victoria Sugden Designs. Despite her business commitments, she continues to enjoy helping others learn whenever possible.
 
-In addition to her career in design, Victoria studied web development and graduated in March 2024. She now works as a games developer alongside her leather bag business. She has built several websites from scratch, including her own and one for the mental health charity Arch-way Project in Halifax, for which she also serves as the website manager.
+In addition to her career in design, Victoria studied web development and graduated in March 2024 with Professional Certificate in Web Development form The University of Birmingham.
+
+Some of the skills she learned on the course are: HTML, JavaScript, Version Control - GitHub, Object-oriented programming, Games Design/Development,
+CSS, Bootstrap, Responsive Web Design, Data extraction & retrieval, AJAX, UX Design, Visual Studio Code, APIs, Node.js, Command Line, React.js, JQuery, Agile development, 
+JSON, Tailwind, Test driven development, Artificial Intelligence.
+
+ She now works as a games developer alongside her leather bag business. She has built several websites from scratch, including her own and one for the mental health charity Arch-way Project in Halifax, for which she also serves as the website manager.
 
 Victoria possesses both a creative flair and an analytical mind, making her well-suited for success in the web design and development industry. She enjoys solving technical issues and can spend hours fixing code or enhancing an app's performance.
 
